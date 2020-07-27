@@ -1,0 +1,7 @@
+D:\quantico06\ISTA220\quiz\quiz02\ex02_william\bin\Debug\ex02_william.exe.config
+D:\quantico06\ISTA220\quiz\quiz02\ex02_william\bin\Debug\ex02_william.exe
+D:\quantico06\ISTA220\quiz\quiz02\ex02_william\bin\Debug\ex02_william.pdb
+D:\quantico06\ISTA220\quiz\quiz02\ex02_william\obj\Debug\ex02_william.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA220\quiz\quiz02\ex02_william\obj\Debug\ex02_william.exe
+D:\quantico06\ISTA220\quiz\quiz02\ex02_william\obj\Debug\ex02_william.pdb
+D:\quantico06\ISTA220\quiz\quiz02\ex02_william\obj\Debug\ex02_william.csprojAssemblyReference.cache
