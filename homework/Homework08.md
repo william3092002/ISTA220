@@ -4,8 +4,9 @@
 
 1. What is the difference between deep copy and shallow copy?
 	* Deep copy is when all the reference type provides a Clone method, shallow copy is when the clone method simply copies references.
+	* shallow copy copies only the reference, deep copy copies what the reference points to.
 2. What is the value of a reference after you declare and initialize it?
-	* the address of the object it reference to 
+	* the address of the object it refers to on the heap
 3. How do you declare a value type?
 	* int x = 0; 
 4. How do you declare a reference type?
@@ -28,6 +29,8 @@ create a variable that can refer to any reference type.
 11. Describe boxing and unboxing in your own words.
 	* it creates an instance for the reference type, which contains a copy of the value of the value type.
 	* it retrieves a copy of the value in an instance and store it in a value type variable. 
+	* when you box you turn a value type into a reference type, when you unbox you take a reference type and turn it into a value type.
 12. What does cast do?
 	* This is an operation
 that checks whether converting an item of one type to another is safe before actually making the copy.
+	* it converts between types
