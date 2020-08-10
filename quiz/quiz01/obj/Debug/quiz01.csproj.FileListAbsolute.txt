@@ -1,7 +1,0 @@
-D:\quantico06\ISTA220\quiz\quiz01\bin\Debug\quiz01.exe.config
-D:\quantico06\ISTA220\quiz\quiz01\bin\Debug\quiz01.exe
-D:\quantico06\ISTA220\quiz\quiz01\bin\Debug\quiz01.pdb
-D:\quantico06\ISTA220\quiz\quiz01\obj\Debug\quiz01.csprojAssemblyReference.cache
-D:\quantico06\ISTA220\quiz\quiz01\obj\Debug\quiz01.csproj.CoreCompileInputs.cache
-D:\quantico06\ISTA220\quiz\quiz01\obj\Debug\quiz01.exe
-D:\quantico06\ISTA220\quiz\quiz01\obj\Debug\quiz01.pdb
