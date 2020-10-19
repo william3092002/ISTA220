@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D8578EFC-5B16-4CBB-A129-3BB1FE0AEFDA}</ProjectGuid>
+    <ProjectGuid>{530278FA-AFA2-43DE-B645-A484C6F2B5FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>quiz05</RootNamespace>
-    <AssemblyName>quiz05</AssemblyName>
+    <RootNamespace>ex06_william</RootNamespace>
+    <AssemblyName>ex06_william</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Archer.cs" />
+    <Compile Include="Bowmaster.cs" />
+    <Compile Include="Samurai.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spearman.cs" />
+    <Compile Include="Calvary.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
